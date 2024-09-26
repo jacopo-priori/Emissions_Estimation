@@ -1,1 +1,3 @@
-Model used to predict emissions reduction of REDD+ projects \n (Reducing emissions from deforestation and forest degradation in developing countries)
+Model used to predict emissions reduction of REDD+ projects
+
+(Reducing emissions from deforestation and forest degradation in developing countries)
